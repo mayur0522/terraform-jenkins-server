@@ -24,4 +24,4 @@ This project demonstrates a CI/CD pipeline for provisioning AWS infrastructure u
     * DynamoDB handles locking/unlocking the state file to prevent race conditions.
 5.  **Provisioning:** AWS infrastructure (VPC, EC2, ELB, Subnets) is provisioned or updated accordingly.
 
-   ![Architecture Diagram](images/architecture-diagram.png)
+   ![Architecture Diagram](images/architecture-diagram.png.png)
